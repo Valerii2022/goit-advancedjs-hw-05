@@ -16,7 +16,6 @@
   "bugs": {
     "url": "https://github.com/Valerii2022/goit-advancedjs-hw-05/issues"
   },
-  "homepage": "https://github.com/Valerii2022/goit-advancedjs-hw-05#readme",
   "devDependencies": {
     "@web/dev-server": "^0.4.1"
   }
